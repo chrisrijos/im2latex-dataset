@@ -53,3 +53,5 @@ isn't quite enough for this task. I can build bigger sets on request.
 - Possible TODOs:
   - Finish tokenizer function / output list of tokens instead of raw formula in formula list
   - Add accuracy metric (eg. word-error-rate or similar)
+  - Optimize Image generation
+  - Acquire a larger training image training data set. 
